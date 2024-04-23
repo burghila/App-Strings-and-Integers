@@ -1,0 +1,14 @@
+C:\Users\burgh\Desktop\App Strings and Integers\App Strings and Integers\bin\Debug\net8.0\App Strings and Integers.exe
+C:\Users\burgh\Desktop\App Strings and Integers\App Strings and Integers\bin\Debug\net8.0\App Strings and Integers.deps.json
+C:\Users\burgh\Desktop\App Strings and Integers\App Strings and Integers\bin\Debug\net8.0\App Strings and Integers.runtimeconfig.json
+C:\Users\burgh\Desktop\App Strings and Integers\App Strings and Integers\bin\Debug\net8.0\App Strings and Integers.dll
+C:\Users\burgh\Desktop\App Strings and Integers\App Strings and Integers\bin\Debug\net8.0\App Strings and Integers.pdb
+C:\Users\burgh\Desktop\App Strings and Integers\App Strings and Integers\obj\Debug\net8.0\App Strings and Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burgh\Desktop\App Strings and Integers\App Strings and Integers\obj\Debug\net8.0\App Strings and Integers.AssemblyInfoInputs.cache
+C:\Users\burgh\Desktop\App Strings and Integers\App Strings and Integers\obj\Debug\net8.0\App Strings and Integers.AssemblyInfo.cs
+C:\Users\burgh\Desktop\App Strings and Integers\App Strings and Integers\obj\Debug\net8.0\App Strings and Integers.csproj.CoreCompileInputs.cache
+C:\Users\burgh\Desktop\App Strings and Integers\App Strings and Integers\obj\Debug\net8.0\App Strings and Integers.dll
+C:\Users\burgh\Desktop\App Strings and Integers\App Strings and Integers\obj\Debug\net8.0\refint\App Strings and Integers.dll
+C:\Users\burgh\Desktop\App Strings and Integers\App Strings and Integers\obj\Debug\net8.0\App Strings and Integers.pdb
+C:\Users\burgh\Desktop\App Strings and Integers\App Strings and Integers\obj\Debug\net8.0\App Strings and Integers.genruntimeconfig.cache
+C:\Users\burgh\Desktop\App Strings and Integers\App Strings and Integers\obj\Debug\net8.0\ref\App Strings and Integers.dll
